@@ -2,7 +2,7 @@
 
 This repository provides resource estimation analysis for the simulation of vibronic Hamiltonians using the algorithm described in Narrative Document.
 
-It contains a fully executable Jupyter [notebook](Resource_Estimation_Tutorial.ipynb) that leverages an *experimental* PennyLane development branch to reproduce all qubit and Toffoli counts reported in the paper.
+It contains a fully executable Jupyter [notebook](Resource_Estimation_Tutorial.ipynb) that leverages an *experimental* PennyLane development branch to reproduce all qubit and Toffoli counts reported in the document.
 
 Follow the installations below:
 
@@ -10,8 +10,8 @@ Follow the installations below:
 
 ```bash
 # 1. clone the repo
-git clone https://github.com/paarth7777/XPRIZE-RE.git
-cd XPRIZE-RE
+git clone https://github.com//XanaduAI/XPrize.git
+cd XPrize
 
 # 2. create (optional) virtual environment
 python -m venv venv
